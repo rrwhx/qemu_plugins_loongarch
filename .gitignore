@@ -1,0 +1,9 @@
+compile_commands.json
+.vscode/*
+.ccls-cache/*
+.history/*
+build/
+*.so
+*.d
+log.txt
+
